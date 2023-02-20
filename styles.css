@@ -1,6 +1,9 @@
 
 /* Your CSS Code here. */
-.fluid{
+.row{
 	display:flex;
-	flex-direction:row;
+	justify-content:space-between;
+}
+img{
+	width:90px;
 }
